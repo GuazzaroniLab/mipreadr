@@ -93,6 +93,4 @@ mergePlates(analysis)
 
 ## Contact
 
-I’d love to hear your comments or suggestions on **mipreadr**! Please,
-contact me via [email](viana.guilherme@proton.me) or find me on
-[Twitter](https://twitter.com/guilheviana)
+This is a fork of the [mipreadr](https://github.com/viana-guilherme/mipreadr) repository. Please, direct bugs, comments or suggestions to the primary [maintainer](viana.guilherme@proton.me)
